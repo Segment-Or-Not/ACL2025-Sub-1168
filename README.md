@@ -1,4 +1,4 @@
-#  Segmented Story Summarization (ACL submission)
+#  Can Large Language Models Summarize Long Narratives? A Study of Holistic versus Segmented Story Summarization
 
 The booksum stories can be collected from https://www.gutenberg.org/
 
